@@ -1,4 +1,4 @@
-1,5 Star,10,0
-2,Milky Bar,10,150
+1,5 Star,10,80
+2,Milky Bar,10,143
 3,Candy,1,170
 4,Dairy Milk,20,50
